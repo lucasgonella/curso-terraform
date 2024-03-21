@@ -6,3 +6,4 @@ terraform.tfstate.backup
 .credenciais-aws.txt
 aws-azure-remote-state/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.96.0/linux_amd64/terraform-provider-azurerm_v3.96.0_x5
 aws-azure-remote-state/.terraform/providers/registry.terraform.io/hashicorp/aws/5.41.0/linux_amd64/terraform-provider-aws_v5.41.0_x5
+aws-key*
